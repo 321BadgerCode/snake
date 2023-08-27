@@ -1,5 +1,7 @@
 # Snake Game
 
+![Gameplay example](./img.jpg)
+
 ## Backstory
 Snake is a classic arcade game that has stood the test of time. It originated in the 1970s as a simple black-and-white game on early computer terminals. Over the years, it has evolved into various versions, making its way onto mobile phones and computers. The objective of the game is straightforward: control a snake and guide it to eat food while avoiding collisions with walls and itself. As the snake consumes food, it grows longer, making the game increasingly challenging.
 
