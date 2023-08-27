@@ -27,6 +27,16 @@ One of the standout features of this Snake game is the implementation of the A* 
 ## Customization
 - You can specify the size of the border using command-line arguments when starting the game. Adjust the border size to increase or decrease the game's difficulty.
 
+## TODO
+
+```cpp
+// FIXME: bottom right of border is missing '#'.
+// FIXME: food sometimes spawns out of bounds(on border).
+// FIXME: printing game over doesn't format properly.
+// FIXME: automated snake b4 game starts.
+// TODO: color gradient on snake's segments.
+```
+
 ## Enjoy the Game!
 This Snake game offers a blend of classic gameplay and modern features. Have fun playing, and see if you can beat the automated snake's impressive pathfinding skills! If you have any questions or feedback, please feel free to reach out.
 
